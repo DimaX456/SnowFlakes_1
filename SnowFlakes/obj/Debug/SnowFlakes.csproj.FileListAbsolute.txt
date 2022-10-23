@@ -1,0 +1,16 @@
+C:\Users\slgwt\source\repos\SnowFlakes\obj\Debug\SnowFlakes.csproj.AssemblyReference.cache
+C:\Users\slgwt\source\repos\SnowFlakes\obj\Debug\SnowFlakes.csproj.SuggestedBindingRedirects.cache
+C:\Users\slgwt\source\repos\SnowFlakes\obj\Debug\SnowFlakes.Properties.Resources.resources
+C:\Users\slgwt\source\repos\SnowFlakes\obj\Debug\SnowFlakes.csproj.GenerateResource.cache
+C:\Users\slgwt\source\repos\SnowFlakes\obj\Debug\SnowFlakes.csproj.CoreCompileInputs.cache
+C:\Users\slgwt\source\repos\SnowFlakes\bin\Debug\SnowFlakes.exe.config
+C:\Users\slgwt\source\repos\SnowFlakes\bin\Debug\SnowFlakes.exe
+C:\Users\slgwt\source\repos\SnowFlakes\bin\Debug\SnowFlakes.pdb
+C:\Users\slgwt\source\repos\SnowFlakes\obj\Debug\SnowFlakes.exe
+C:\Users\slgwt\source\repos\SnowFlakes\obj\Debug\SnowFlakes.pdb
+C:\Users\slgwt\source\repos\SnowFlakes\obj\Debug\SnowFlakes.Form1.resources
+C:\Users\slgwt\source\repos\SnowFlakes\bin\Debug\Interop.WMPLib.dll
+C:\Users\slgwt\source\repos\SnowFlakes\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\slgwt\source\repos\SnowFlakes\obj\Debug\Interop.WMPLib.dll
+C:\Users\slgwt\source\repos\SnowFlakes\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\slgwt\source\repos\SnowFlakes\obj\Debug\SnowFlakes.csproj.ResolveComReference.cache
